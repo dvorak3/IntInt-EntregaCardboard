@@ -221,6 +221,18 @@ Unity en Linux no puede compilar para iOS, así que solo genera el proyecto de X
 
 ![Configuración del Inspector](Capturas/generador-inspector.png)
 
+**4. Mirando una seta.** Se tiñe de azul oscuro según avanza el tiempo de mirada. Se ven la mirilla en el centro y el contador `SETAS 0/20` abajo.
+
+![Mirada con barra de carga](Capturas/01-mirada-carga.png)
+
+**5. Seta recolectada.** Partículas de feedback y contador actualizado (`SETAS 2/20`).
+
+![Recolección con partículas](Capturas/02-recoleccion-particulas.png)
+
+**6. Recuperación con la flor.** Las setas recolectadas aparecen en la flor central y vuelan hacia el jugador.
+
+![Recuperación con la flor](Capturas/03-recuperacion-flor.png)
+
 ---
 
 ## Créditos
